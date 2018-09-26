@@ -1,0 +1,6 @@
+C:\Users\gabriel.conejo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\gabriel.conejo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\gabriel.conejo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\gabriel.conejo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\medMeanConcept.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.conejo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\gabriel.conejo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
